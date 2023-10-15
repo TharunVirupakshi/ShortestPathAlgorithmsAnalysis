@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/TharunVirupakshi/ShortestPathAlgoAnalysis-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TharunVirupakshi/ShortestPathAlgoAnalysis-flask-server.git
