@@ -2,7 +2,11 @@
 
 This project is a web application that demonstrates and analyzes different shortest-path algorithms. The project leverages [**NetworkX**](https://networkx.org/), a Python library, to generate graphs, utilize in-built shortest path algorithms, and calculate various graph metrics on the backend. On the frontend, it uses [**vis-network**](https://visjs.github.io/) for graph visualization, making it easy to understand the algorithm's behavior on different graph structures.
 
-![image](GIFMaker_me.gif)
+
+   <img width="1183" alt="Screenshot 2023-10-16 at 10 15 45 AM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/d6a9c57d-17da-442f-ba5d-d7c07aeca23f">
+   <img width="1183" alt="Screenshot 2023-10-16 at 10 15 23 AM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/017e87cb-658f-4667-b3c9-b6da6a35f41d"> 
+<img width="1183" alt="Screenshot 2023-10-16 at 10 14 39 AM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/56eca712-6cb7-4ca7-aee6-a3a7095c88f3">
+
 
 ## Features
 
@@ -44,6 +48,9 @@ This project is a web application that demonstrates and analyzes different short
    ```bash
    cd ../frontend
    npm run dev
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/blob/main/LICENSE) file for details.
 
 
 
