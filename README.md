@@ -2,7 +2,7 @@
 
 This project is a web application that demonstrates and analyzes different shortest-path algorithms. The project leverages [**NetworkX**](https://networkx.org/), a Python library, to generate graphs, utilize in-built shortest path algorithms, and calculate various graph metrics on the backend. On the frontend, it uses [**vis-network**](https://visjs.github.io/) for graph visualization, making it easy to understand the algorithm's behavior on different graph structures.
 
-![image](https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/blob/main/GIFMaker_me.gif)
+![image](GIFMaker_me.gif)
 
 ## Features
 
