@@ -2,10 +2,12 @@
 
 This project is a web application that demonstrates and analyzes different shortest-path algorithms. The project leverages [**NetworkX**](https://networkx.org/), a Python library, to generate graphs, utilize in-built shortest path algorithms, and calculate various graph metrics on the backend. On the frontend, it uses [**vis-network**](https://visjs.github.io/) for graph visualization, making it easy to understand the algorithm's behavior on different graph structures.
 
+Live : https://shortestpathalgoanalysis-frontend.onrender.com
 
-   <img width="1183" alt="Screenshot 2023-10-16 at 10 15 45 AM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/d6a9c57d-17da-442f-ba5d-d7c07aeca23f">
-   <img width="1183" alt="Screenshot 2023-10-16 at 10 15 23 AM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/017e87cb-658f-4667-b3c9-b6da6a35f41d"> 
-<img width="1183" alt="Screenshot 2023-10-16 at 10 14 39 AM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/56eca712-6cb7-4ca7-aee6-a3a7095c88f3">
+
+<img width="1183" alt="Screenshot 2024-02-28 at 8 42 39 PM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/66d26eb7-b53e-49ac-8ca8-2479f4d54327">
+<img width="1183" alt="Screenshot 2024-02-28 at 8 43 35 PM" src="https://github.com/TharunVirupakshi/ShortestPathAlgorithmsAnalysis/assets/118896616/2ddec1bd-4e94-467b-9e81-55cd517e3e20">
+
 
 
 ## Features
